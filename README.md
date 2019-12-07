@@ -1,2 +1,2 @@
 # firstRepos
-///My first repository with MLH
+My first repository with MLH
